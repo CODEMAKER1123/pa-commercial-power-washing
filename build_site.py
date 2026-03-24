@@ -114,7 +114,7 @@ FOOTER = """
 INDEX_CONTENT = """
     <!-- Hero Section -->
     <section class="relative bg-brand-blue text-white overflow-hidden">
-        <div class="absolute inset-0 opacity-10 bg-[url('https://images.unsplash.com/photo-1541888086225-ee9b4561e1b1?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80')] bg-cover bg-center"></div>
+        <div class="absolute inset-0 opacity-10 bg-[url('https://www.rollingsudspowerwashing.com/wp-content/uploads/2025/01/23c20d12-e655-48a1-b118-a934add22a4e.jpg')] bg-cover bg-center"></div>
         <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 md:py-32 flex flex-col items-center text-center">
             <span class="text-blue-300 font-semibold tracking-wider uppercase text-sm mb-4">A Division of Rolling Suds</span>
             <h1 class="text-4xl md:text-6xl font-extrabold tracking-tight mb-6 leading-tight max-w-4xl">
@@ -342,7 +342,7 @@ PAGES = {
                 </ul>
             </div>
             <div>
-                <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Commercial Operations" class="rounded-xl shadow-2xl">
+                <img src="https://www.rollingsudspowerwashing.com/wp-content/uploads/2025/01/ad4bbe67-ebc4-485f-abae-b51652da33ed.png" alt="Commercial Operations" class="rounded-xl shadow-2xl">
             </div>
         </div>
     </div>
@@ -361,7 +361,7 @@ PAGES = {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div class="order-2 lg:order-1">
-                <img src="https://images.unsplash.com/photo-1508450859948-4e04fabaa4ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="High Reach Boom Lift" class="rounded-xl shadow-2xl">
+                <img src="https://www.rollingsudspowerwashing.com/wp-content/uploads/2025/01/Drone-Capabilities.png" alt="High Reach Boom Lift" class="rounded-xl shadow-2xl">
             </div>
             <div class="order-1 lg:order-2">
                 <h2 class="text-3xl font-bold text-brand-blue mb-6">No Scaffolding? No Problem.</h2>
@@ -408,7 +408,7 @@ PAGES = {
                 </div>
             </div>
             <div>
-                <img src="https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Nighttime Operations" class="rounded-xl shadow-2xl">
+                <img src="https://www.rollingsudspowerwashing.com/wp-content/uploads/2025/07/Pressure-Washing.png" alt="Nighttime Operations" class="rounded-xl shadow-2xl">
             </div>
         </div>
     </div>
@@ -427,7 +427,7 @@ PAGES = {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div class="order-2 lg:order-1">
-                <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Beautiful Residential Home" class="rounded-xl shadow-2xl">
+                <img src="https://www.rollingsudspowerwashing.com/wp-content/uploads/2025/07/Roof-Washing-scaled.jpg" alt="Beautiful Residential Home" class="rounded-xl shadow-2xl">
             </div>
             <div class="order-1 lg:order-2">
                 <h2 class="text-3xl font-bold text-brand-blue mb-6">Yes, We Do Homes.</h2>
@@ -469,7 +469,7 @@ PAGES = {
                 </div>
             </div>
             <div>
-                <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Commercial Building Facade" class="rounded-xl shadow-2xl">
+                <img src="https://www.rollingsudspowerwashing.com/wp-content/uploads/2025/01/PowerWashing_2.jpg" alt="Commercial Building Facade" class="rounded-xl shadow-2xl">
             </div>
         </div>
     </div>
@@ -488,7 +488,7 @@ PAGES = {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div class="order-2 lg:order-1">
-                <img src="https://images.unsplash.com/photo-1573348722427-f1d6819fdf98?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Commercial Parking Garage" class="rounded-xl shadow-2xl">
+                <img src="https://www.rollingsudspowerwashing.com/wp-content/uploads/2025/01/Rolling-Suds_Cleaning.png" alt="Commercial Parking Garage" class="rounded-xl shadow-2xl">
             </div>
             <div class="order-1 lg:order-2">
                 <h2 class="text-3xl font-bold text-brand-blue mb-6">High-Traffic Surfaces Demand Heavy-Duty Solutions</h2>
@@ -521,7 +521,7 @@ PAGES = {
                 </div>
             </div>
             <div>
-                <img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Multi Family Property" class="rounded-xl shadow-2xl">
+                <img src="https://www.rollingsudspowerwashing.com/wp-content/uploads/2025/01/cropped-Pressure-Washing-Rolling-Suds.jpg" alt="Multi Family Property" class="rounded-xl shadow-2xl">
             </div>
         </div>
     </div>
@@ -540,7 +540,7 @@ PAGES = {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div class="order-2 lg:order-1">
-                <img src="https://images.unsplash.com/photo-1586528116311-ad8ed7c8084f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Commercial Delivery Trucks" class="rounded-xl shadow-2xl">
+                <img src="https://www.rollingsudspowerwashing.com/wp-content/uploads/2025/01/Professional-Equipment-1.png" alt="Commercial Delivery Trucks" class="rounded-xl shadow-2xl">
             </div>
             <div class="order-1 lg:order-2">
                 <h2 class="text-3xl font-bold text-brand-blue mb-6">Your Fleet is Your Brand</h2>
